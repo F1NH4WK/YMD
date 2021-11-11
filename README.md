@@ -1,4 +1,4 @@
-<h1> Youtube Music Downloader </h1>
+<h1 align = "center" > Youtube Music Downloader </h1>
 
 <h3> Index</h3>
 <ul>
