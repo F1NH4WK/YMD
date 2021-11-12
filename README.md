@@ -1,5 +1,7 @@
 <h1 align = "center" > Youtube Music Downloader </h1>
 
+![](https://img.shields.io/github/languages/code-size/F1NH4WK/YMD?color=deeppink&style=plastic)
+
 <h3> Index</h3>
 <ul>
   <li><a href = '#installation'>Installation</a></li>
