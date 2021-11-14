@@ -2,9 +2,8 @@ from selenium import webdriver
 import os
 from downloading import download
 
-music_name = input('Music name: ')
+music_name, chose = input('Music name: '), 0
 music_name = music_name.replace(' ', '+')
-chose = 0
 
 # DEFINING THE BROWSER AND GOING TO YOUTUBE
 driver = webdriver.Chrome()
