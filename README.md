@@ -18,4 +18,4 @@
 
 <h2 id = 'running'>Running</h3>
 
-<p> After install the librarys, you can use <code>git clone https://github.com/F1NH4WK/YMD</code> and run the <code>run.py</code> file in your prompt.
+<p> After install the librarys, you can use <code>git clone https://github.com/F1NH4WK/YMD.git</code> and run the <code>run.py</code> file in your prompt.
